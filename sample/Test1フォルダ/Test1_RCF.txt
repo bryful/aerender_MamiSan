@@ -1,0 +1,6 @@
+After Effects 9.0v1 Render Control File
+max_machines=5
+num_machines=0
+init=0
+html_init=0
+html_name=""
